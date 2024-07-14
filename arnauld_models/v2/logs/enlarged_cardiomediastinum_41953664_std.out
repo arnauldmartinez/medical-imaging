@@ -1,0 +1,141 @@
+Loading cuda/12.2.1-gcc-11.3.1-sdqrj2e
+  Loading requirement: gcc-runtime/11.3.1-gcc-11.3.1-jw6fhud
+    libiconv/1.17-gcc-11.3.1-h3jdn2x xz/5.4.1-gcc-11.3.1-y32p7p3
+    zlib/1.2.13-gcc-11.3.1-dwcx77k libxml2/2.10.3-gcc-11.3.1-m4mk5ab
+Loading gcc/13.2.0-gcc-13.2.0-w55nxkl
+  Loading requirement: gmp/6.2.1-gcc-13.2.0-lcnhyse
+    mpfr/4.2.0-gcc-13.2.0-yy2fkq5 mpc/1.3.1-gcc-13.2.0-5kgoftq
+    zlib-ng/2.1.3-gcc-13.2.0-jetnfwa zstd/1.5.5-gcc-13.2.0-t2lua3l
+imports finished
+after dataset load
+train/val: 4500 500
+before model init
+after model init
+Epoch 0/24
+----------
+train Loss: 85.6857 Acc: 1.8333
+val Loss: 71.8594 Acc: 2.2500
+
+Epoch 1/24
+----------
+train Loss: 63.3168 Acc: 2.0556
+val Loss: 65.5181 Acc: 3.0000
+
+Epoch 2/24
+----------
+train Loss: 61.5120 Acc: 2.3889
+val Loss: 74.0919 Acc: 3.5000
+
+Epoch 3/24
+----------
+train Loss: 59.9748 Acc: 2.9167
+val Loss: 69.1777 Acc: 2.2500
+
+Epoch 4/24
+----------
+train Loss: 59.7314 Acc: 2.7778
+val Loss: 64.8666 Acc: 2.5000
+
+Epoch 5/24
+----------
+train Loss: 62.2925 Acc: 2.6944
+val Loss: 100.6680 Acc: 4.2500
+
+Epoch 6/24
+----------
+train Loss: 68.1020 Acc: 2.2500
+val Loss: 64.4303 Acc: 2.2500
+
+Epoch 7/24
+----------
+train Loss: 55.2468 Acc: 2.6667
+val Loss: 64.9711 Acc: 2.2500
+
+Epoch 8/24
+----------
+train Loss: 55.0348 Acc: 2.2222
+val Loss: 64.7994 Acc: 1.2500
+
+Epoch 9/24
+----------
+train Loss: 55.3894 Acc: 2.6944
+val Loss: 65.4538 Acc: 2.0000
+
+Epoch 10/24
+----------
+train Loss: 54.9513 Acc: 2.5000
+val Loss: 64.6477 Acc: 2.2500
+
+Epoch 11/24
+----------
+train Loss: 56.0544 Acc: 2.3056
+val Loss: 64.5375 Acc: 2.0000
+
+Epoch 12/24
+----------
+train Loss: 55.6959 Acc: 2.1389
+val Loss: 65.0306 Acc: 1.5000
+
+Epoch 13/24
+----------
+train Loss: 54.8568 Acc: 2.0556
+val Loss: 64.9286 Acc: 2.0000
+
+Epoch 14/24
+----------
+train Loss: 54.6700 Acc: 2.1389
+val Loss: 64.7277 Acc: 1.7500
+
+Epoch 15/24
+----------
+train Loss: 54.6658 Acc: 2.5833
+val Loss: 64.6929 Acc: 2.0000
+
+Epoch 16/24
+----------
+train Loss: 54.5557 Acc: 2.6667
+val Loss: 64.8649 Acc: 1.7500
+
+Epoch 17/24
+----------
+train Loss: 54.6914 Acc: 2.4722
+val Loss: 64.5573 Acc: 1.5000
+
+Epoch 18/24
+----------
+train Loss: 54.6520 Acc: 2.2500
+val Loss: 64.7470 Acc: 1.7500
+
+Epoch 19/24
+----------
+train Loss: 54.6976 Acc: 2.0278
+val Loss: 64.5970 Acc: 1.7500
+
+Epoch 20/24
+----------
+train Loss: 54.6560 Acc: 2.6389
+val Loss: 64.6207 Acc: 1.5000
+
+Epoch 21/24
+----------
+train Loss: 54.5870 Acc: 2.8056
+val Loss: 64.4966 Acc: 1.7500
+
+Epoch 22/24
+----------
+train Loss: 54.5458 Acc: 2.4722
+val Loss: 64.7557 Acc: 2.2500
+
+Epoch 23/24
+----------
+train Loss: 54.5580 Acc: 2.6111
+val Loss: 64.8072 Acc: 1.5000
+
+Epoch 24/24
+----------
+train Loss: 54.4797 Acc: 2.1111
+val Loss: 64.5070 Acc: 1.0000
+
+Training complete in 26m 45s
+Best val Acc: 4.250000
+After model train
